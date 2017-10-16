@@ -3,9 +3,9 @@ package processors
 import (
 	"database/sql"
 
-	"github.com/dailyburn/ratchet/data"
-	"github.com/dailyburn/ratchet/logger"
-	"github.com/dailyburn/ratchet/util"
+	"github.com/jimberlage/ratchet/data"
+	"github.com/jimberlage/ratchet/logger"
+	"github.com/jimberlage/ratchet/util"
 )
 
 // SQLWriter handles INSERTing data.JSON into a
